@@ -1,0 +1,966 @@
+[
+  {
+    "id": 68,
+    "title": "I’m Game ",
+    "year": 2026,
+    "genre": "Action/Sci-fi ",
+    "poster": "https://image.tmdb.org/t/p/w500/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-09-05T10:00:00",
+    "universe": ""
+  },
+  {
+    "id": 67,
+    "title": "LOKi (Season 1)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://catimages.org/images/2023/10/05/Loki-S01-Hindi-Dubbed-HDRip-ALL-Episodes-HDHub4u.jpg",
+    "description": "",
+    "contentType": "Web Series",
+    "watch": "",
+    "download": "",
+    "episodes": [
+      {
+        "episode": 1,
+        "link": ""
+      },
+      {
+        "episode": 2,
+        "link": ""
+      },
+      {
+        "episode": 3,
+        "link": ""
+      },
+      {
+        "episode": 4,
+        "link": ""
+      },
+      {
+        "episode": 5,
+        "link": ""
+      },
+      {
+        "episode": 6,
+        "link": ""
+      }
+    ],
+    "addedAt": "2026-09-02T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 66,
+    "title": "Thunderbolts (2025)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://image.tmdb.org/t/p/w500/1I0ORYrbqZxtKmuwsoRIaajUvBg.jpg",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 65,
+    "title": "Captain America: Brave New World (2025)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghxC5W_o8EvZcIBMwknCzMuN2zSsajfObk9PaIts8P5qQiy_w7R3X-1pfyLMO56xJ3YcA-d4E7gqcpqcWDwZRk_vxwz65OIsGUuhkesY&s",
+    "description": "https://image.tmdb.org/t/p/w500/9QNHH4WmxrN7ClfqSwi33sZwkWq.jpg",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 64,
+    "title": "Deadpool & Wolverine (2024)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://image.tmdb.org/t/p/w500/xl6sgxa4entJS0aOWX0bPAlEn8.jpg",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 63,
+    "title": "The Marvels (2023)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://image.tmdb.org/t/p/w400/tUtgLOESpCx7ue4BaeCTqp3vn1b.jpg",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 62,
+    "title": "Guardians of the Galaxy Vol. 3 (2023)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkyKX8165zgrg_ded57Dq66MKQsx7K8VNHyCB4u7Kbm5qJgv5Sh6WO-oPi2oCnsVbsRicm&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 61,
+    "title": "Ant-Man and the Wasp: Quantumania (2023)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJQkj0ulGUOn1wpYDvxv6HsOz0pY0T2y6rKmua1lXoBs6Ym9tOYhFjRRXnJ2Zwg4lVBbRiQ&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 60,
+    "title": "Black Panther: Wakanda Forever (2022)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNmVeYskccHQx42CsgGFSRd65WicwIa5wGLR-EP_0hk5JviXE0ibxdbzMMK5SqyQXnfXwmozAGM-jrFHyVuUWRZbwfbyl1a21rqYPQju8&s",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 59,
+    "title": "Thor: Love and Thunder (2022)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTXF-cU5zRCuWofemFfv3r2QHY1a0uUZ9LU1JWCv_f86BQb7w-NhwBJFOLFHo7OqJa9b5I7wXA-ARq8NRMqEM0VcPWoXFxoWo4yC532Vw&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 58,
+    "title": "Doctor Strange in the Multiverse of Madness (2022)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5lQWnTZl8G6HqjHKnfaiiUFYRZhkhFyFZL3-A54UbbVxAaKjVJ8APVf-mRoVt7yTU7HdAnVtNdirt1e8ozp9RehkSdn3VS6cO7aqwA&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 57,
+    "title": "Spider-Man: No Way Home (2021)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 56,
+    "title": "Eternals (2021)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1OPVlB_YAPS_96yXtg9spl9AHuPjVISGDs9xnjU-UsgSN81p1oiyziNeS5F0MtCMXk2IW&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 55,
+    "title": "Shang-Chi and the Legend of the Ten Rings (2021)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdIdVnMD3oqEYhrlDBqlptXTpmpzDtYDHK-UJZEA1MmYhEprGanKYrFh3pr_zwe-144CfWaQ&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 54,
+    "title": "Black Widow (2021)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlqWgxLnNaD8NID7I-dDxm5qiHR6OnRTcc4UUfyROzWYKRgUMeiTc2JmcszAL2vKj892twc1a0RLkUjkweCoAzFuHLvKHqi7IOf2cmw&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 53,
+    "title": "Spider-Man: Far From Home (2019)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 52,
+    "title": "Avengers: Endgame (2019)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcSRyRURcQwBu8E456c2I2bMH4soILzf9V3ZRN7qObmuSZSwk31q8TBURcPMuPL-WZgotQevDd-i-oU7PXTU7m6y0f5Y1pkPzuAGN1DyZEw&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 51,
+    "title": "Captain Marvel (2019)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 50,
+    "title": "Ant-Man and the Wasp (2018)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZEICE5Fp_1MCZq0qK501n8ErP10rJHZB0teV2XdX8THwITz_e5yMxxUzXP1SDKlmdAXjt&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 49,
+    "title": "Avengers: Infinity War (2018)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2_cEexTdYFaQJFUwRZrG4IrM1510eWIkeQhwqq2GbNhxDJZUml6g1Ft9iKyuHJhG15wGUQ&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 48,
+    "title": "Black Panther (2018)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1MSjVz4AlBMvl3RD0eXqenCdZbowXC-2uGUcgYGSrtuOdsVAGWVYmJ24_wB54zLkMxaVU&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 47,
+    "title": "Thor: Ragnarok (2017)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCMlKbpqsAfxj-E797wdboaNM6ihmp86wfnL_bjVnI8NE-Xvr8h_zUtykA9hi6HtjyS1Z&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 46,
+    "title": "Spider-Man: Homecoming (2017)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88EbyUq9cbs1zVQE1yT5AbytcAh4G0KOJW03q-wBSsImDo-s3_8dg8GWKc-5RTkAwoLsJSg&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 45,
+    "title": "Guardians of the Galaxy Vol. 2 (2017)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjR6So8F8m3c0fKyvFKJotXHeLbVezkVNUcele21CwnTa8oDW8klaHVrugEkz9OqEIzUoNQ&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 44,
+    "title": "Doctor Strange (2016)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJPrkO28MqrTh476hY7Bx8cthYkyFDoh_O1-8F4immniOrgyagjl1j6UWdl8S8ZQgUuXEYC592EH4gU_6fc4N8qvug9CFw0gjk1Koucw&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 43,
+    "title": "Captain America: Civil War (2016)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYXxpHS2k-xg3Id-4U7zdviqbDplP_KjZh-9PEPiB45C6d07bBog36IYxyaT_AP6OHbMeHpnyQBuRysjlEwZI1sCiL4Q52_xIuMbuug&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 42,
+    "title": "Iron Man 3",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 41,
+    "title": "Thor: The Dark World (2013)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 40,
+    "title": "Captain America: The Winter Soldier (2014)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 39,
+    "title": "Guardians of the Galaxy (2014)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 38,
+    "title": "Avengers: Age of Ultron (2015)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 37,
+    "title": "Ant-Man (2015)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 36,
+    "title": "Iron Man 2 (2010)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 35,
+    "title": "Thor (2011)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 34,
+    "title": "Captain America: The First Avenger (2011)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 33,
+    "title": "The Avengers (2012)",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 32,
+    "title": "The Incredible Hulk",
+    "year": 2026,
+    "genre": "Action/Sci-fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [
+      "POSTER/"
+    ],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 31,
+    "title": "Tuck Jagadish",
+    "year": 2026,
+    "genre": "Action",
+    "rating": 9.2,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwgXFlrtyz__4Awy5AdI008ypaONI9SvEUYW1D4p5TKVhhDzvJy0TKCb4xbFLOUMjw5lIE&s=10",
+    "status": "Completed",
+    "contentType": "movie",
+    "description": "",
+    "watch": "",
+    "download": "",
+    "episodes": [],
+    "popular": false,
+    "isNew": false,
+    "addedAt": "2026-09-01T08:23:09.196Z"
+  },
+
+  {
+    "id": 1,
+    "title": "spider-man",
+    "year": 2026,
+    "genre": "Action",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-20T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 2,
+    "title": "iron-man",
+    "year": 2026,
+    "genre": "Sci-Fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-19T10:00:00",
+    "universe": "Marvel"
+  },
+
+  {
+    "id": 3,
+    "title": "AVATAR WAY IN WATER",
+    "year": 2025,
+    "genre": "Drama",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-18T10:00:00"
+  },
+
+  {
+    "id": 4,
+    "title": "AVATAR FIRE",
+    "year": 2025,
+    "genre": "Thriller",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-17T10:00:00"
+  },
+
+  {
+    "id": 5,
+    "title": "Red Valley",
+    "year": 2025,
+    "genre": "Action",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-16T10:00:00"
+  },
+
+  {
+    "id": 6,
+    "title": "City Lights",
+    "year": 2024,
+    "genre": "Drama",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-15T10:00:00"
+  },
+
+  {
+    "id": 7,
+    "title": "Wild Chase",
+    "year": 2024,
+    "genre": "Action",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-14T10:00:00"
+  },
+
+  {
+    "id": 8,
+    "title": "After Dark",
+    "year": 2024,
+    "genre": "Thriller",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-13T10:00:00"
+  },
+
+  {
+    "id": 9,
+    "title": "Laugh Out Loud",
+    "year": 2024,
+    "genre": "Comedy",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-12T10:00:00"
+  },
+
+  {
+    "id": 10,
+    "title": "Dark Forest",
+    "year": 2023,
+    "genre": "Thriller",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-11T10:00:00"
+  },
+
+  {
+    "id": 11,
+    "title": "Neon City",
+    "year": 2023,
+    "genre": "Sci-Fi",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-10T10:00:00"
+  },
+
+  {
+    "id": 12,
+    "title": "The Journey",
+    "year": 2023,
+    "genre": "Drama",
+    "poster": "",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-09T10:00:00"
+  },
+
+  {
+    "id": 13,
+    "title": "DHUANDHAR THE REVANGE",
+    "year": 2026,
+    "genre": "Action",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoy01LYeIl-YJp2AxhHZXA3khWIpl7sp9IbqK56AKahgnSODTpxSgOUi3WgHPHDkqcDmU_Qpw_iibm1-1FdXk9yn4bbWthdgxGLQXEg&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-20T15:00:00"
+  },
+
+  {
+    "id": 14,
+    "title": "AWARAPAN 2",
+    "year": 2026,
+    "genre": "ROM-COM",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzg4ZjQ0OTMtY2VhOC00NzI1LThkZmYtMWI4NzcxMzdmNjZiXkEyXkFqcGc@._V1_.jpg",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-21T14:00:00"
+  },
+
+  {
+    "id": 15,
+    "title": "LEO",
+    "year": 2026,
+    "genre": "Action",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/75/Leo_%282023_Indian_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-21T15:00:00"
+  },
+
+  {
+    "id": 16,
+    "title": "Lucky Baskhar",
+    "year": 2026,
+    "genre": "Action",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbnmmGOxH6vVIWhLNnYfAkiGE5k85SjemMH7LQ8PneRILJqthNt2rp7cMDHJINJGQPr6BG&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-22T15:00:00"
+  },
+
+  {
+    "id": 17,
+    "title": "The Greatest of All Time",
+    "year": 2026,
+    "genre": "Action",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/The_Greatest_of_All_Time.jpg/250px-The_Greatest_of_All_Time.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-22T15:00:00"
+  },
+
+  {
+    "id": 18,
+    "title": "Vishwanath & Sons",
+    "year": 2026,
+    "genre": "Action",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZv5Gqc9ae_79q1gxY880ZUApvGqdIan68ulRMbmOLiWz8S99tGM7GfAZBm1fhNty4kSEXipH1Xl10RHLu4VDwQT1dm27NkexmQGW_A&s",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-23T15:00:00"
+  },
+
+  {
+    "id": 19,
+    "title": "Saiyaara",
+    "year": 2026,
+    "genre": "Romance/Drama",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBYXqI7NA1aCPL9Bs1V0Pue4bj4np7Yz4cXISzP1s6dEAID6XCEl_vUsidFX9BLWhTK42Jg&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-23T15:00:00"
+  },
+
+  {
+    "id": 20,
+    "title": "Shiddat",
+    "year": 2026,
+    "genre": "Romance/Drama",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSPT4SyHik_xJlzTrsc3LXwnSBo86gEE8eo3tAfUQJd1nBF5vhARY6X9otS5LZinCPoTM7g&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-23T15:10:00"
+  },
+
+  {
+    "id": 21,
+    "title": "Dhurandhar",
+    "year": 2026,
+    "genre": "Action/spy",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGp4Z-5N_jeiUvIrzXJC_VBJnICjcxPePFZfdCyF-YFo989caoqa3edjH8oGY86sjJEIiXg&s=10",
+    "description": "",
+    "contentType": "movie",
+    "watch": "",
+    "download": "",
+    "photos": [],
+    "addedAt": "2026-08-23T19:10:00"
+  }
+]
